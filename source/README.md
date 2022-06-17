@@ -1,5 +1,7 @@
 This project was bootstrapped with Create React App.
 
+It has 4 sections:- Homepage, Cart Section, Checkout, Payment Gateway
+
 Available Scripts
 In the project directory, we can run:
 
